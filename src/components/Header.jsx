@@ -1,8 +1,6 @@
-import React from 'react'
-
 function Header() {
   return (
-    <div>Desde Header</div>
+    <h1>Desde Header</h1>
   )
 }
 
